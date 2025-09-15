@@ -12,7 +12,7 @@ quit exit stop
 
 if you You went to edit those Item You can do
 
-If your Music is another Folder Only this code 
+If your Music is another Folder modify Only this code 
 
 elif "play music" in query:
             path_music = "E:\\Music"
@@ -35,5 +35,6 @@ elif "play music" in query:
 
 You Have to change E:\\Music This path You can Also Change Song Name in print Funtion
 If you want to change DIA DELÍCIA = 0 Like This you have to change top to bottom and your first song will be 0
+
 
 you can easily change anything It's too easy 
